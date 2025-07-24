@@ -3,3 +3,4 @@ print(a)
 
 b = 100
 print(b)
+v = 100
