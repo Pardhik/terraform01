@@ -1,2 +1,5 @@
 a = 100
-pront(a)
+print(a)
+
+b = 100
+print(b)
